@@ -15,6 +15,7 @@ A partir da branch Main, crie uma branch chamada ``primeiro_fato``. Copie e cole
 # Entrega: Resolvendo Conflitos.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Primeiro fato sobre Thiago;
 
 Vou ser um desenvolvedor, não apenas no certificado;
@@ -23,6 +24,11 @@ Vou ser um desenvolvedor, não apenas no certificado;
 
 Sou persistente;
 >>>>>>> segundo-fato
+=======
+## Terceiro fato sobre Thiago;
+
+Estou gostando muito da área de programação;
+>>>>>>> terceiro-fato
 ```
 
 Faça um ``commit`` e um ``push``. Volte para a branch ``master`` e repita o processo com uma branch ``segundo_fato`` e ``terceiro_fato``. Lembre-se de editar todos os dados possíveis de acordo com suas informações.
